@@ -13,4 +13,4 @@ Except Canada Post does not have 5 digit postal codes in their PCCF database and
 
 The key is to recognize clusters by identifiable and denoted areas of small size like a Dissemination Area, but not as granular as say a street name. A bunch of blocks is good enough for tracking puropses. So I had to use the existing six digit centroids to create 5 digit area approximations using Thiessen polygons for every postal code in Canada and clip by province since postal codes do not cross provincial boundaries - conducted entirely using spatial datatypes and methods.
 
-A cool project and the results were pretty good given this methodology approach would be prone to any number of anomolies.
+A cool project and the results were pretty good given this methodology approach would be prone to any number of anomolies given the results are only approximations.
