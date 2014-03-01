@@ -1,7 +1,7 @@
 SQL
 ===
 
-A collection of 20 spatial queries and stored proceedures for MS SQL that I created when I worked for KFL&A Public Health in Kingston, Ontario on contract in 2010. It was kinda make-work projects but did I learn a ton. Working with OGC-compliant datatypes and methods in a spatial database. Skills are transferable to PostGIS.
+A collection of 20 spatial queries and stored proceedures for MS SQL that I created when I worked for KFL&A Public Health in Kingston, Ontario on contract in 2010. I worked on a number of interesting projects that allowed me to I learn a ton. Working with OGC-compliant datatypes and methods in a spatial database. Skills are transferable to PostGIS.
 
 One project was to determine how many people would be affected if a bomb was dropped on the Health Unit within varying buffer ranges using 2006 Census data such as Dissemination Areas. All calculations had to be determined by spatial query.
 
